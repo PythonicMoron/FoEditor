@@ -18,7 +18,7 @@ from FoEditor.ui import Ui_MainWindow
 from FoEditor.atlas import atlas, equipment
 from FoEditor.body import body, bodypart
 
-url = ""  # Source link.
+url = "https://github.com/PythonicMoron/FoEditor"  # Source link.
 GAME_VERSION = 28  # latest game version.
 
 
